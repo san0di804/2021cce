@@ -9,6 +9,3 @@ int main()
 {
 printf("Hello World\n");
 } 
-
-
-#第02週
